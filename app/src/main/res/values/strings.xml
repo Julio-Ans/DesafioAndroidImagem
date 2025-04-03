@@ -1,9 +1,11 @@
 <resources>
     <string name="app_name">Desafio de Imagem no Android</string>
-    <string name="input_nome">Digite Seu Nome</string>
+    <string name="input_nome">Digite o Nome do Produto</string>
     <string name="input_valor">Digite o Valor</string>
     <string name="input_url">Digite o Link da Imagem</string>
     <string name="btn_cadastro">Cadastrar</string>
     <string name="text_remember">Ver Lista</string>
+    <string name="txv_nome">Txt</string>
+    <string name="txv_valor">Txt</string>
 
 </resources>

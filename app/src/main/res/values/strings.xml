@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FrontEndandroid</string>
+    <string name="input_email">Digite Seu Email</string>
+    <string name="input_pass">Digite Seu Senha</string>
+    <string name="btn_login">Logar</string>
+    <string name="text_remember">Esqueceu Sua Senha?</string>
+
+</resources>
